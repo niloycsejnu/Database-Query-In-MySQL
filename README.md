@@ -6,7 +6,7 @@ This repository contains a series of MySQL database queries with their results, 
 
 ## Project Structure
 
-- **`queries and outputs.docx`**: Contains all the queries along with their outputs as screenshots.
+- **`Queries and Outputs.docx`**: Contains all the queries along with their outputs as screenshots.
 - **`studentdb.sql`**: SQL file containing the table structure and data used in the project.
 ---
 
@@ -70,7 +70,7 @@ This repository contains a series of MySQL database queries with their results, 
 
 ## Screenshots
 
-All query outputs are provided as screenshots in the `queries_and_outputs.docx` file for reference.
+All query outputs are provided as screenshots in the `Queries and Outputs.docx` file for reference.
 
 ---
 
